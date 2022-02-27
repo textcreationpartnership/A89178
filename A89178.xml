@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mistake of the times, written by a faithfull sonne of the late flourishing Church of England, observing present differences betweene the Parliament and Army. Being written by one much bemoaning the the [sic] sad condition of his native kingdome. From a scholler in Cambridge to his friend in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89178</idno>
+            <idno type="STC">Wing M2255</idno>
+            <idno type="STC">Thomason E410_23</idno>
+            <idno type="STC">ESTC R204457</idno>
+            <idno type="EEBO-CITATION">99863947</idno>
+            <idno type="PROQUEST">99863947</idno>
+            <idno type="VID">116165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116165)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E410[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mistake of the times, written by a faithfull sonne of the late flourishing Church of England, observing present differences betweene the Parliament and Army. Being written by one much bemoaning the the [sic] sad condition of his native kingdome. From a scholler in Cambridge to his friend in London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Linsey at Londonstone,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In the title, the last "e" in "betweene" is printed upside-down.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116165:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>THE MISTAKE OF THE TIMES, Written By a faithfull Sonne of the late flou<g ref="char:EOLhyphen"/>riſhing Church of ENGLAND, obſerving preſent differences betweene the <hi>Parliament</hi> and <hi>Army.</hi>
+            </p>
+            <p>Being writtten by one much bemoaning the the ſad condition of his native KING<g ref="char:EOLhyphen"/>DOME. From a Scholler in <hi>Cambridge</hi> to his friend in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Linſey</hi> at <hi>Londonſtone,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116165:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb n="1" facs="tcp:116165:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>THE MISTAKE OF THE TIMES, <hi>WHEREIN</hi> Is obſerved the preſent difference betweene the PAR<g ref="char:EOLhyphen"/>LIAMENT and ARMY.</head>
+            <p>IT hath ever been held an unfit courſe to Intermeddle with other mens actions, eſpecially when one hath no<g ref="char:EOLhyphen"/>thing to do with the matters in queſtion, yet here me<g ref="char:EOLhyphen"/>thinks every good ſubject as well as every great ſubject, may challinge an intereſt; I have therefore (though in the midſt of my own private diſtr<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions) lent thy obſervations to thoſe publick diſtances between Parliament and Army. Indeed I have often heard it that a King is the husband, and the Common-wealth is the wife, now whom God hath joy<g ref="char:EOLhyphen"/>ned together let no man nor malice ſeeke to ſeperate; ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if any differences ariſe, I ſhall pray they may compoſe them themſelves, or elſe they throw themſelves upon the c<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>u<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of others, but ſometimes they may be lyable to ſuch diſtem<g ref="char:EOLhyphen"/>pers, that they may need a Phyſitian, and Parliaments have been held the fitteſt and beſt Phyſitians to cure diſquiets in either; For as houſhold jarrs may rend and ruin a family, the husband pulling one way, and the wife another, to their own infinite diſquiets; So when theoſe differences are com<g ref="char:EOLhyphen"/>poſed, it doth knit the bond of affection the firmer, that ma<g ref="char:EOLhyphen"/>ny times they may cry out, we are happier by our failings and falling out; But if any go about to make the breach wi<g ref="char:EOLhyphen"/>der now horrid a taske they undertake, they and they only can tell, who have been lyable to ſuch miſchances, for when bad perſwaſions meet with ſuch untoward humours as are
+<pb n="2" facs="tcp:116165:3"/>
+               <!-- PDF PAGE 52 -->apt to entertaine ill conceits of one another, how eaſie a thing it is to make that irr<gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, which by <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſea<g ref="char:EOLhyphen"/>ſonable advice is ſoone compoſed, even ſo in a diſtempered Kingdome, where either the Prince playes the wanton with his prerogatives, and gives others power to abuſe his Sub<g ref="char:EOLhyphen"/>jects, thinking his people bound to ſuffer any thing he layeth upon them, or where a diſtempered Nation <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egin<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to thinke evill of their Princes, <gap reason="illegible: bleedthrough" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>pi<gap reason="illegible: bleedthrough" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ing to ſee any in grea<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er power then themſelves, how eaſie is it for any ſiding with either, to make the ſparkes of deviſion grow to ſuch a flame as may ſet the whole Kingdome in combuſtion. And how eaſie is it on the other ſide to procure a faire compoſure, if any will mo<g ref="char:EOLhyphen"/>deſtly and mannerly ſhew their Prince how he is abuſed by his inſtruments, and what a derrogation it is to his Princly dignity to imploy bad agents, becauſe the worſt of the evill <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>flects upon himſelf, Therefore intreate him in time to pre<g ref="char:EOLhyphen"/>vent ſuch growing evils by taking advice by a Parliament, and no the other ſide to perſwade the people to have a reve<g ref="char:EOLhyphen"/>rent eſteeme of their Prince, as of one God hath ſet over them and that as ſoone as the world became populous, there was a neceſſity of diff<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rence and diſtinction of perſons, and that ſupreame powers are ordained by God, and thoſe that reſiſt them reſiſt the Ordinance of God. And ſo having brought both to ſee their ſickneſſe, to perſwade both to make their refuge to the Phyſitian; but now if this Phyſition ſhall pro<g ref="char:EOLhyphen"/>ceed ſo cunningly with both, as to refuſe to undertake the cure, unleſſe all the power they both have be conferred on him, preſuming the Prince will indure no ſuch coraſives if there be occaſion to uſe them, nor the people being of an un<g ref="char:EOLhyphen"/>tamed humour) will not be kept in fitting bounds, if I ſay the Parliament be ſo cau<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious (as out of theſe conſiderations), not to undertake the cure unleſſe it be inveſted with this power the danger will be, and is but to apparant, the cure man be worſe then the diſeaſe.</p>
+            <p>For could it have been imagined that the King for his vo<g ref="char:EOLhyphen"/>lun<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary deſire to ſatisfy his ſubjects in granting the continu<g ref="char:EOLhyphen"/>ance of this Parliament, that they ſhould not onely make it
+<pb n="5" facs="tcp:116165:3"/>
+               <!-- PDF PAGE 52 -->perpetuall, but deprive the King of all ſubjection to him, nay of all livelihood, and did the Common-wealth immagine, that out of a deſire to be freed from all Monopolies, and all illegall demands, as <hi>Shipmony,</hi> and the reſt, they ſhould have been thus enſnared, as to pay greater Taxes, new Ex<g ref="char:EOLhyphen"/>ciſes, ſuch Contributions, as do not onely farre exceede all former demands, but are ſtill ſo increaſing, that they not onely groane under the burthen of them, but grow not a<g ref="char:EOLhyphen"/>ble to diſcharge them, and yet they are made beleeve this is for the liberty of the Subject, I have heard that none can mannage an eſtate ſo well, as thoſe that are breed in the fa<g ref="char:EOLhyphen"/>miliar uſe of it, which is the reaſon, that the Sonnes of thoſe men that ſuddenly grow rich, are for the moſt part prodi<g ref="char:EOLhyphen"/>galls; ſo I wonder not that this Parliament having ſuch an expected power put in their hands, prove and play the Pro<g ref="char:EOLhyphen"/>digall with it, what vaſt ſumms have been rayſed, and how diſpoſed, not the wiſeſt amongſt them (I verily beleeve) can tell, why Armies have been liſted, hummunition provided, ſo many Innocents killed, can any of them give a reaſon? for what good hath all our fighting produced, but breed an inviterate hate againſt one another, nay after all our glori<g ref="char:EOLhyphen"/>ous (as they call them) victories, are we any whit the nea<g ref="char:EOLhyphen"/>rer happineſſe? nay (I feare) we are rather falling into greater diſtractions; for doth not the Army preſcribe rules to the Parliament, nay to the King himſelfe, by fetching him violently from Holmby, and ſtill diſpo<g ref="char:EOLhyphen"/>ſing of him as they not he pleaſeth, ſo as I feare they guard him for danger, not from danger, and do they not impeach the Members of the Houſe of Com<g ref="char:EOLhyphen"/>mons, and require a perfect time for determination of this Parliament, and divers other things, and do not the Quer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es object againſt the Army, nay may not the Parliament juſtly wonder that an Army ſhould at one and the ſame time require pay from them, and infringe their priviledges, is not this ſtrange bandying at one another, &amp; offing one another from hazard to hazard, even to the hazard of one anothers ruine, for
+<pb n="4" facs="tcp:116165:4"/>
+               <!-- PDF PAGE 53 -->are we not next doore to be againe imbroyled in a new warre, and ſo to be made (and what is worſe to make our ſelves) the ſcorne of all our Neighbour Nations, but was it not ſo with the Children of Izrael when they had no King? did not every man what ſeemed good in his owne eyes and I pray conſider what ſtrange thinge have been acted both in Church and Common wealth in this Kingdome of la<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, may it not truly be ſaid? Thy holy Temples they have defiled, and made <hi>Ieruſalem</hi> an he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſtones, ſo as it is a wonder to me that the ſtones do not cry out, and now muſt we ex<g ref="char:EOLhyphen"/>pect our happineſſe from further diviſions, certainely no, I wiſh therefore we would prevent ſo neere an approaching evill before it come upon us; for let us once more be inga<g ref="char:EOLhyphen"/>ged in juſtifying our ſeverall conceits by the ſword, it will then be too late to wiſh a reconcilement.</p>
+            <p>O that both Parliament and Army would therefore (be<g ref="char:EOLhyphen"/>fore it be too late,) throw themſelves at the Kings feete, and humbly acknowledge thinge are done improperly on both ſides, for as it is mans weakneſſe to err, ſo it is mans wick<g ref="char:EOLhyphen"/>edneſſe to perſiſt in errour; for I am perſwaded if we would yet at laſt put all our miſtries into the Kings hands, it will prove the likelyeſt way to cure our overſpreading maladies before they grow to ſuch an height, as they will be impoſſi<g ref="char:EOLhyphen"/>ble to be cured, and that we would deſire him to ſettle things as ſeemes beſt in his eyes; for certainly, as God hath endowed him with knowledge above his fellowes, or elſe he could never have borne thoſe high and ſtrange affronts as have been put upon him with ſo admirable a patience, ſo I am confident, affliction hath been prepared him to mannage the Scepters of his three Kingdomes, with more ſafety to his Subjects, and honour to himſelfe, then he hath done before; for new he ſees plainly, freeborne ſubjects will not indure indirect demands, and therefore there is no doubt his own pious heart deſires ſo to mannage thoſe things are commit<g ref="char:EOLhyphen"/>ted to his charge, as to prepare and ſecure his way to Hea<g ref="char:EOLhyphen"/>ven, and future happineſſe; for here we have no abaling City.</p>
+            <p>
+               <pb n="5" facs="tcp:116165:4"/>
+               <!-- PDF PAGE 53 -->
+O Lord (for thy mercies ſake) open the eyes of this ſi<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>full Nation, that not truſting to their own <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, nor <gap reason="illegible: bleedthrough" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing to their own conceite, they may reinveſt His Majeſty in his juſt rights, and learne and reſolve to ſubmit to his Com<g ref="char:EOLhyphen"/>mands, and then upon the diſſolution of this Parliament<g ref="char:punc">▪</g> it is not to be doubted but His Majeſty will call another, and ſo ſettle the Peace of this (now totterring) Kingdome, but if ſtill we keepe him at diſtance, and continue our thwar<g ref="char:EOLhyphen"/>ting and croſſing one another, we may undoubtedly (and that very ſhortly) ſay, we might have been happy but would not; therefore woe, woe, woe, is but too likely to be our portion, let us O let us, therefore devote with all re<g ref="char:EOLhyphen"/>verence a day of generall humiliation for our crying ſins, ſo may our generall deſolations be Preuented, nay let us (for <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we had needs) <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mi<gap reason="illegible: bleedthrough" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ily to the Lord) to <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ver<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgements <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, King, meete with condigne puniſhment, we were of all Na<g ref="char:EOLhyphen"/>tions moſt miſerable, but there is mercy with him that he ſhould be feared, if therefore we can truly humble our ſelves, and implore his mercies in an humble, lowly, penni<g ref="char:EOLhyphen"/>tent, and obedient manner, there is yet hope, we may not quite periſh; for as man cannot commit greater ſins then God can forgive, yet if we perſiſt in theſe crying impieties, it is to be feared, we may commit thoſe ſins God will not forgive, but that other Nations and our future Generation, may have cauſe to bemoane our juſt deſolations, and that our gardens be given to thoſe will make a better uſe of them then we have done; for if famine, murther, rape, (which are the bitter Attendants of warre) be the effects of our re<g ref="char:EOLhyphen"/>formed religion, how will the mother be deteſted that bringeth forth ſuch loath ſome iſſue; let us therefore take heede we not onely wound, but altogether deſtroy our reli<g ref="char:EOLhyphen"/>gion we ſeeme with ſo much zeale to eſtabliſh, I wiſh there<g ref="char:EOLhyphen"/>fore we would take warning by the parable of him that planted a Vineyard, and let it out unto husbandmen, and when he expected fruite, and ſent a ſervant to them, they
+<pb n="4" facs="tcp:116165:5"/>
+               <!-- PDF PAGE 54 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:116165:5"/>
+               <!-- PDF PAGE 54 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:116165:6"/>
+               <!-- PDF PAGE 55 -->beat him, and ſent him away empty, and ceaſed not there, but uſed two others in the like or worſe manner, nay they killed the Sonne himſelfe, but what the Lord of the Vine<g ref="char:EOLhyphen"/>yard did I tremble to think on, leaſt the like puniſhment for the like impieties befall us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
